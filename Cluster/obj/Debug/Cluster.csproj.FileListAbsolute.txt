@@ -1,0 +1,10 @@
+C:\Users\Богдан\source\repos\Cluster\Cluster\bin\Debug\Cluster.exe.config
+C:\Users\Богдан\source\repos\Cluster\Cluster\bin\Debug\Cluster.exe
+C:\Users\Богдан\source\repos\Cluster\Cluster\bin\Debug\Cluster.pdb
+C:\Users\Богдан\source\repos\Cluster\Cluster\obj\Debug\Cluster.csprojAssemblyReference.cache
+C:\Users\Богдан\source\repos\Cluster\Cluster\obj\Debug\Cluster.Form1.resources
+C:\Users\Богдан\source\repos\Cluster\Cluster\obj\Debug\Cluster.Properties.Resources.resources
+C:\Users\Богдан\source\repos\Cluster\Cluster\obj\Debug\Cluster.csproj.GenerateResource.cache
+C:\Users\Богдан\source\repos\Cluster\Cluster\obj\Debug\Cluster.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\source\repos\Cluster\Cluster\obj\Debug\Cluster.exe
+C:\Users\Богдан\source\repos\Cluster\Cluster\obj\Debug\Cluster.pdb
